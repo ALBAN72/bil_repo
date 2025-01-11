@@ -1,2 +1,2 @@
 # bil_repo
-repo des WebApp BIL V1
+repo des WebApp BIL
